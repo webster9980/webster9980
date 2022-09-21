@@ -2,7 +2,7 @@
 
 
 <h1>Olá, meu nome é Webster e sou um apaixonado pela 'web' :)</h1>
-
+<label>Minhas Stacks!</label>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
