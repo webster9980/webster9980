@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1>Olá, meu nome é Webster e sou um apaixonado pela 'web' :)</h1>
 <label>Minhas Stacks!</label>
 <div style="display: inline_block"><br>
